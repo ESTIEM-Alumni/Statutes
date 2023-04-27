@@ -1,10 +1,10 @@
 # Statutes 
-## § 1 Name of the Association  
+## § 1 Name of the Association
 The Association shall be known as Alumni of the European Students of Industrial Engineering and Management (ESTIEM). The name of the association shall be officially abbreviated to ESTIEM Alumni. 
-## § 2 Aim of the Association  
+## § 2 Aim of the Association
 The aim of ESTIEM Alumni is: 
 * 1- to establish, foster and maintain an international network among the Alumni and junior Alumni of ESTIEM, 
-* 2- to foster and maintain the contact and the co-operation with ESTIEM and other organizations interested in the  field of Industrial Engineering and Management (IEM), 
+* 2- to foster and maintain the contact and the co-operation with ESTIEM and other organizations interested in the field of Industrial Engineering and Management (IEM), 
 * 3- to promote the position of IEM-engineers in business and other relevant organizations. 
 ## § 3 Language 
 The official language of ESTIEM Alumni is English. This language shall be used in the Council Meetings, all official communication and publication unless otherwise agreed upon. 
@@ -14,8 +14,8 @@ Members of ESTIEM Alumni may be:
 * (b) Junior members 
 * (c) Supporting members 
 
-All individuals wishing to become members shall submit an application detailing the experience of the applicant in relation to ESTIEM and the  
-motivation for joining ESTIEM Alumni. After receiving the application, the Board shall ensure that the following qualifications are met:  
+All individuals wishing to become members shall submit an application detailing the experience of the applicant in relation to ESTIEM and the
+motivation for joining ESTIEM Alumni. After receiving the application, the Board shall ensure that the following qualifications are met:
 - In order to qualify for the status of ordinary member, an individual shall have graduated from an Industrial Engineering and Management study
 
 - In order to qualify for the status of junior member, an individual shall be currently studying and be a member or a former member of an ESTIEM Local Group.
@@ -26,30 +26,30 @@ The granting of membership will be by decision of the Council (see §6.1), based
 Upon graduation, the status of a junior member can be changed to ordinary member following his/her initiative.
 Junior members and supporting members have the right to attend Council Meetings. Junior members and supporting members have no voting rights.
 
-## § 5 Expiry of Membership  
-The membership in ESTIEM Alumni ends, if the member in question of ESTIEM Alumni  
+## § 5 Expiry of Membership
+The membership in ESTIEM Alumni ends, if the member in question of ESTIEM Alumni
 * (a) sends a letter of resignation to the Board before the end of the calendar year. In this case the membership expires at the end of the calendar year; 
 * (b) is expelled. The member in question may be expelled from ESTIEM Alumni following the decision of the Board, if the member 
     - violates these Statutes, 
     - violates obligations assumed under these rules, 
     - damages the interests of ESTIEM Alumni. 
 
-The member in question shall be informed by the Board of their decision in writing. If the member in  question objects to the decision of the Board, the member in question shall be heard by the Council. The Council must support the decision of the Board at the next Council Meeting with a majority of at least two-thirds in order to expel the member. Until the decision is made the member is expelled; 
-* (c) cannot be reached through their provided data or other efforts by the board for two consecutive years. At the end of the second year, the Board will propose the member for exclusion. The decision is taken by the Council.  
+The member in question shall be informed by the Board of their decision in writing. If the member in question objects to the decision of the Board, the member in question shall be heard by the Council. The Council must support the decision of the Board at the next Council Meeting with a majority of at least two-thirds in order to expel the member. Until the decision is made the member is expelled; 
+* (c) cannot be reached through their provided data or other efforts by the board for two consecutive years. At the end of the second year, the Board will propose the member for exclusion. The decision is taken by the Council. 
 * (d) dies.
 ## § 6 Organization
-ESTIEM Alumni consists of the following institutions:  
-* (a) the Council of members,  
+ESTIEM Alumni consists of the following institutions:
+* (a) the Council of members,
 * (b) the Board, 
 * (c) the Auditors. 
 ### § 6.1 Council of Members 
-* 1. The supreme decision-making and regulative power of ESTIEM Alumni is vested in the Council, which will represent all members. The Council is in quorum when it has been summoned in accordance with the Statutes, and when at least 20 votes (ordinary members) are represented. The Council shall be summoned to an annual ESTIEM Alumni Council Meeting by a written invitation of the Board at least once a year. The invitation to the ESTIEM Alumni Council Meeting and accompanying agenda shall be sent out by the Board at least four weeks before the opening of the ESTIEM Alumni Council Meeting. Points for the agenda, suggested by any member, may be added to the agenda with the agreement of the Council except proposed Statute changes. A collective of at least twenty-five percent of all members of ESTIEM Alumni can summon an ESTIEM Alumni Council Meeting. In case the Board or a collective of at least 20 full members see the need, a voting can take place per ordinary mail, e-mail or fax.  
+* 1. The supreme decision-making and regulative power of ESTIEM Alumni is vested in the Council, which will represent all members. The Council is in quorum when it has been summoned in accordance with the Statutes, and when at least 20 votes (ordinary members) are represented. The Council shall be summoned to an annual ESTIEM Alumni Council Meeting by a written invitation of the Board at least once a year. The invitation to the ESTIEM Alumni Council Meeting and accompanying agenda shall be sent out by the Board at least four weeks before the opening of the ESTIEM Alumni Council Meeting. Points for the agenda, suggested by any member, may be added to the agenda with the agreement of the Council except proposed Statute changes. A collective of at least twenty-five percent of all members of ESTIEM Alumni can summon an ESTIEM Alumni Council Meeting. In case the Board or a collective of at least 20 full members see the need, a voting can take place per ordinary mail, e-mail or fax.
 * 2. The duties of the Council of members are determined by the internal regulations.
 
 ### § 6.3 Board 
 * 1. The Board is responsible for the management and all affairs of ESTIEM Alumni. The Board collectively or individually represents ESTIEM Alumni on an international level, unless otherwise stated in these statutes. The main duties are determined by the internal regulations. 
 * 2. The Board consists of at least three ordinary members: 
-    * (a) the President,  
+    * (a) the President,
     * (b) the Vice-President of Administration, 
     * (c) the Vice-President of Finance. 
 The board may include other positions, e.g. Vice President of Activities. 
@@ -68,7 +68,7 @@ Each Ordinary Member may offer himself as a candidate until the moment at which 
 
 The voting committee is responsible for the organisation of the voting and the determination of the results. The voting committee shall not consist of any current Board member or candidate for the Board.
 
-## §8 Dissolution  
+## §8 Dissolution
 ESTIEM Alumni can be dissolved by the decision of the Council by a majority of three-quarters of the votes represented. In case of dissolution all ESTIEM Alumni funds will be donated to ESTIEM, linked to the use for student projects only.
 
 ## § 9 Changes of Statute
