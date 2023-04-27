@@ -30,9 +30,9 @@ Junior members and supporting members have the right to attend Council Meetings.
 The membership in ESTIEM Alumni ends, if the member in question of ESTIEM Alumni  
 * (a) sends a letter of resignation to the Board before the end of the calendar year. In this case the membership expires at the end of the calendar year; 
 * (b) is expelled. The member in question may be expelled from ESTIEM Alumni following the decision of the Board, if the member 
-- violates these Statutes, 
-- violates obligations assumed under these rules, 
-- damages the interests of ESTIEM Alumni. 
+    - violates these Statutes, 
+    - violates obligations assumed under these rules, 
+    - damages the interests of ESTIEM Alumni. 
 
 The member in question shall be informed by the Board of their decision in writing. If the member in  question objects to the decision of the Board, the member in question shall be heard by the Council. The Council must support the decision of the Board at the next Council Meeting with a majority of at least two-thirds in order to expel the member. Until the decision is made the member is expelled; 
 * (c) cannot be reached through their provided data or other efforts by the board for two consecutive years. At the end of the second year, the Board will propose the member for exclusion. The decision is taken by the Council.  
