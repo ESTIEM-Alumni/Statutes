@@ -4,8 +4,8 @@ The Association shall be known as Alumni of the European Students of Industrial 
 ## § 2 Aim of the Association
 The aim of ESTIEM Alumni is: 
 * 1- to establish, foster and maintain an international network among the Alumni and junior Alumni of ESTIEM, 
-* 2- to foster and maintain the contact and the co-operation with ESTIEM and other organizations interested in the field of Industrial Engineering and Management (IEM), 
-* 3- to promote the position of IEM-engineers in business and other relevant organizations. 
+* 2- to foster and maintain the contact and the co-operation with ESTIEM and other organisations interested in the field of Industrial Engineering and Management (IEM), 
+* 3- to promote the position of IEM-engineers in business and other relevant organisations. 
 ## § 3 Language 
 The official language of ESTIEM Alumni is English. This language shall be used in the Council Meetings, all official communication and publication unless otherwise agreed upon. 
 ## § 4 Membership 
@@ -37,7 +37,7 @@ The membership in ESTIEM Alumni ends, if the member in question of ESTIEM Alumni
 The member in question shall be informed by the Board of their decision in writing. If the member in question objects to the decision of the Board, the member in question shall be heard by the Council. The Council must support the decision of the Board at the next Council Meeting with a majority of at least two-thirds in order to expel the member. Until the decision is made the member is expelled; 
 * (c) cannot be reached through their provided data or other efforts by the board for two consecutive years. At the end of the second year, the Board will propose the member for exclusion. The decision is taken by the Council. 
 * (d) dies.
-## § 6 Organization
+## § 6 Organisation
 ESTIEM Alumni consists of the following institutions:
 * (a) the Council of members,
 * (b) the Board, 
