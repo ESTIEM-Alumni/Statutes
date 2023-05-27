@@ -16,7 +16,7 @@ Members of ESTIEM Alumni may be:
 
 All individuals wishing to become members shall submit an application detailing the experience of the applicant in relation to ESTIEM and the
 motivation for joining ESTIEM Alumni. After receiving the application, the Board shall ensure that the following qualifications are met:
-- In order to qualify for the status of ordinary member, an individual shall have graduated from an Industrial Engineering and Management study
+- In order to qualify for the status of ordinary member, an individual shall have graduated from an Industrial Engineering and Management study  or shall be a member or a former member of an ESTIEM Local Group. 
 
 - In order to qualify for the status of junior member, an individual shall be currently studying and be a member or a former member of an ESTIEM Local Group.
 
