@@ -77,7 +77,7 @@ Amendments to and abolition of the sections of articles of this Statutes shall b
 ## § 10 Internal Regulations 
 The Council may draw up one or more Internal Regulations that put the members under obligation. Obligations put upon members by the Internal Regulations shall be equal for all and shall not harm the sovereignty of any individual member.
 
-A decision by the Council to draw up or to make changes in the Internal Regulations can be taken as described in §10, unless there is an explicit paragraph in the specific article of the regulations that states the requirement of more than a simple majority.
+A decision by the Council to draw up or to make changes in the Internal Regulations can be taken by a simple majority.
 
 ## Final clause (added) 
 In all cases not provided for by the Statutes or law, the Council shall decide.
