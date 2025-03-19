@@ -81,3 +81,66 @@ A decision by the Council to draw up or to make changes in the Internal Regulati
 
 ## Final clause (added) 
 In all cases not provided for by the Statutes or law, the Council shall decide.
+
+
+# Internal Regulations of ESTIEM Alumni 
+The following “Internal Regulations” shall be regulations as defined in article 13 of the Statutes of ESTIEM  Alumni.
+
+## The Council Meeting 
+The Council Meeting shall be presided over by a Chairman who shall be appointed by the Council at the beginning  of the meeting.
+Of everything discussed in each meeting the Secretary, who shall be chosen at the beginning of the meeting, shall  take minutes. The minutes have to be confirmed by the Council.
+
+The following points have to be on the agenda of the Council Meeting of ESTIEM Alumni: 
+
+(a) Singing of the ESTIEM Song
+
+(b) Quorum of the Council and enlistment of the votes by proxy 
+
+(c) Election of the Chairman 
+
+(d) Election of the Secretary
+
+(e) Election of the voting committee 
+
+(f) Decisions about additions to the agenda, 
+
+(g) Approval of the minutes of the last Council Meeting 
+
+(h) Approval of the Board report, 
+
+(i) Approval of the financial report, 
+
+(j) Decisions relating to acceptance of new members, 
+
+(k) Decisions relating to expulsion of members, 
+
+(l) Election of the Board for the upcoming year 
+
+(m) Election of Auditors for the upcoming year, 
+
+(n) Decisions concerning changes to the statutes 
+
+(o) Discharge of the Board following the reports of the Board members and Auditors. A list of all applicants for Membership shall be sent to the members prior to each Council Meeting. 
+
+## The Board 
+
+The following tasks have to be carried out by the Board: 
+
+(a) prepare ESTIEM Alumni Council Meetings and their agenda, 
+
+(b) invite all members to Council Meetings, 
+
+(c) execute the decisions made by the Council, 
+
+(d) accounting, 
+
+(e) maintain a database of ESTIEM Alumni members that is accessible to all members online. (f) circulate an information-letter to all members at suitable intervals, 
+
+(g) submit a report of each Board member at Council Meeting.
+
+## The Voting 
+Decisions of the Council may be made by “show of hands” if there are no objections amongst those present.  Elections on persons (board candidates, auditors or other candidates) should be held by secret bail, when required  by at least one voting member. The “Olympic” voting system (repeated rejection of the candidate with the fewest  votes) shall be employed for elections.
+
+If an ordinary member is absent from a Council Meeting his vote may be transferred to another ordinary member  by proxy. The proxy must be appointed in writing and the letter of appointment shall be presented to the  Chairman of the Council Meeting before the declaration of the quorum of the Council. Each member can  summon at the most 3 other votes. 
+The voting committee should organise the voting, and thus also decide on the procedure. Furthermore, the voting  committee shall count the votes and determine the results.
+
