@@ -55,6 +55,9 @@ ESTIEM Alumni consists of the following institutions:
 The board may include other positions, e.g. Vice President of Activities. 
 * 3. The Board members will be appointed by the Council, with due observance of the voting procedure as described in §7 of these Statutes.
 * 4. The Board is elected by the Council at the annual Council Meeting for the period of one year. A Board member in office may stand for re-election in the same or a different executive function. The Board shall remain in office until a new Board is elected.
+* 5. The ESTIEM Alumni board year starts on the first of August and ends on the 31st of July after the election of the new Board.
+* 6. The ESTIEM Alumni financial year aligns with the board year.
+
 ### §6.3 Auditors 
 A financial report shall be prepared by the Vice-President of Finance before each Council Meeting.
 Each year the Council will appoint an Audit Committee of at least two Auditors. The Auditors shall not be current Board members or candidates for the Board. The Audit Committee shall audit the financial report and report its findings to the Council in writing. All members should be granted access to the report upon request. The Auditors shall advise the Council whether or not to approve the financial report.
